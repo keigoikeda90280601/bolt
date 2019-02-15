@@ -254,3 +254,29 @@ transition: 0.3s;
   color: #fff;
   text-align: right;
 }
+
+
+
+
+@media screen and (min-width: 768px) and ( max-width:1199px) {
+  .inner_contents {
+    width: 97%;
+    background-size: cover;
+  }
+
+  .left_img {
+    float: none;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .right_text {
+    float: none;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+
+
+
+}
