@@ -72,6 +72,7 @@ body {
 
 .main {
   background-color: #f2f2f2;
+  margin-top: 70px;
 }
 
 .theme {
@@ -330,7 +331,7 @@ transition: 0.3s;
 }
 
 
-.center_image:nth-child(4) {
+.center_image:nth-child(3n+1) {
   margin-top: 80px;
 }
 
@@ -366,7 +367,7 @@ transition: 0.3s;
 } */
 
 .skill_childbox:first-child {
-  margin-top: 40px;
+  margin-top: 0;
 }
 }
 
@@ -466,7 +467,7 @@ transition: 0.3s;
   }
 
   .skill_childbox:first-child {
-    margin-top: 40px;
+    margin-top: 0;
   }
 
   .nav_box {
