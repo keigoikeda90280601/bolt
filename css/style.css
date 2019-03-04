@@ -396,6 +396,13 @@ transition: 0.3s;
   margin-top: 20px;
 }
 
+.greenbox {
+  padding: 50px 0px 25px 0px;
+}
+
+.bottomtext {
+  width: 100%;
+}
 
 .left_img {
   width: 100%;
@@ -438,6 +445,10 @@ transition: 0.3s;
   width: 100%;
   float: none;
   margin: 0 auto;
+}
+
+.latest_text {
+  width: 100%;
 }
 
 .latest_rightbox {
